@@ -1,0 +1,40 @@
+# Core Data Analysis
+pandas==2.0.3 # compatiable with python=3.11
+numpy==1.24.3
+scipy==1.10.1
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+ipykernel==6.25.0
+notebook==7.0.2
+
+# Data File Handling
+openpyxl==3.1.2  # Excel files
+xlrd==2.0.1      # Old Excel files
+pyarrow==12.0.1  # Parquet files
+
+# API & Web
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Automation
+schedule==1.2.0
+python-dotenv==1.0.0
+
+# Progress Bars & Logging
+tqdm==4.65.0
+loguru==0.7.2
+
+# Code Quality (optional)
+# black==23.7.0
+# pylint==2.17.4
+# pytest==7.4.0
+
+# Database (optional)
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.7  # PostgreSQL
